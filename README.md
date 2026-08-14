@@ -19,8 +19,7 @@ Multi-agent enterprise operations platform with specialist agents, shared workfl
 
 ---
 
-### [Aurixa-Luxury-Real-Estate-Intelligence
-](https://github.com/ProdigyProjectStudios/aurixa-platform)
+### [Aurixa-Luxury-Real-Estate-Intelligence](https://github.com/ProdigyProjectStudios/aurixa-platform)
 
 Full-stack luxury real-estate platform combining a cinematic React frontend with a Strapi/PostgreSQL backend, Cloudinary media, AI property enrichment and inquiry automation.
 
