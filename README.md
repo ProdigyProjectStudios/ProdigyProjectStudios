@@ -45,28 +45,24 @@ I work across the complete product surface: from the data model and service boun
 <table>
 <tr>
 <td width="42%" valign="top">
-
-### Controlled multi-agent operations
-
-A production-oriented architecture for making non-deterministic LLM workflows **observable, grounded, evaluated and governable**.
-
-An 8-node typed agent state machine routes operational requests through specialist agents, pgvector retrieval, synthesis and a formal human approval gate. Every agent action, tool call and decision is persisted as a replayable audit record.
-
-**Engineering depth**
-
-- 8-node specialist-agent state graph
-- PostgreSQL + pgvector retrieval
-- structured Zod output contracts
-- human approval and audit trails
-- deterministic golden-scenario evaluations
-- provider usage, token and cost telemetry
-- contract-first OpenAPI architecture
-
-`TypeScript` · `Node.js` · `Python` · `FastAPI` · `PostgreSQL` · `pgvector` · `OpenAI`
-
+<h3>Controlled multi-agent operations</h3>
+<p>A production-oriented architecture for making non-deterministic LLM workflows <strong>observable, grounded, evaluated and governable</strong>.</p>
+<p>An 8-node typed agent state machine routes operational requests through specialist agents, pgvector retrieval, synthesis and a formal human approval gate. Every agent action, tool call and decision is persisted as a replayable audit record.</p>
+<p><strong>Engineering depth</strong></p>
+<ul>
+<li>8-node specialist-agent state graph</li>
+<li>PostgreSQL + pgvector retrieval</li>
+<li>structured Zod output contracts</li>
+<li>human approval and audit trails</li>
+<li>deterministic golden-scenario evaluations</li>
+<li>provider usage, token and cost telemetry</li>
+<li>contract-first OpenAPI architecture</li>
+</ul>
+<p><code>TypeScript</code> · <code>Node.js</code> · <code>Python</code> · <code>FastAPI</code> · <code>PostgreSQL</code> · <code>pgvector</code> · <code>OpenAI</code></p>
+<p>
 <a href="https://github.com/ProdigyProjectStudios/agentops-command-center"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" alt="AgentOps repository" /></a>
 <a href="https://agentops.digitalprodigy.dev"><img src="https://img.shields.io/badge/LIVE_DEMO-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" alt="AgentOps live demo" /></a>
-
+</p>
 </td>
 <td width="58%" valign="top">
 <a href="https://agentops.digitalprodigy.dev"><img src="https://raw.githubusercontent.com/ProdigyProjectStudios/agentops-command-center/main/docs/screenshots/dashboard.png" width="100%" alt="AgentOps Command Center dashboard" /></a>
@@ -89,27 +85,23 @@ An 8-node typed agent state machine routes operational requests through speciali
 <a href="https://aurixa.digitalprodigy.dev"><img src="https://raw.githubusercontent.com/ProdigyProjectStudios/aurixa-luxury-real-estate-intelligence/main/docs/screenshots/home-hero.png" width="100%" alt="Aurixa luxury real estate platform" /></a>
 </td>
 <td width="42%" valign="top">
-
-### Client-facing product + operational backend
-
-Commissioned full-stack platform for a premium Brazilian real-estate business, combining a cinematic buyer experience with the operational system behind it.
-
-The delivered client system connected the React frontend to a **Strapi / PostgreSQL API layer** handling property content, Cloudinary media, AI enrichment and inquiry persistence / automation.
-
-**System highlights**
-
-- integrated React ↔ Strapi architecture
-- property CMS + PostgreSQL
-- Cloudinary media pipeline
-- Restb.ai vision analysis
-- OpenAI property enrichment
-- sanitised inquiry API + n8n handoff
-
-`React 19` · `TypeScript` · `Strapi 5` · `PostgreSQL` · `OpenAI` · `Restb.ai` · `Cloudinary` · `n8n`
-
+<h3>Client-facing product + operational backend</h3>
+<p>Commissioned full-stack platform for a premium Brazilian real-estate business, combining a cinematic buyer experience with the operational system behind it.</p>
+<p>The delivered client system connected the React frontend to a <strong>Strapi / PostgreSQL API layer</strong> handling property content, Cloudinary media, AI enrichment and inquiry persistence / automation.</p>
+<p><strong>System highlights</strong></p>
+<ul>
+<li>integrated React ↔ Strapi architecture</li>
+<li>property CMS + PostgreSQL</li>
+<li>Cloudinary media pipeline</li>
+<li>Restb.ai vision analysis</li>
+<li>OpenAI property enrichment</li>
+<li>sanitised inquiry API + n8n handoff</li>
+</ul>
+<p><code>React 19</code> · <code>TypeScript</code> · <code>Strapi 5</code> · <code>PostgreSQL</code> · <code>OpenAI</code> · <code>Restb.ai</code> · <code>Cloudinary</code> · <code>n8n</code></p>
+<p>
 <a href="https://github.com/ProdigyProjectStudios/aurixa-luxury-real-estate-intelligence"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" alt="Aurixa repository" /></a>
 <a href="https://aurixa.digitalprodigy.dev"><img src="https://img.shields.io/badge/LIVE_SHOWCASE-A855F7?style=for-the-badge&logo=vercel&logoColor=white" alt="Aurixa live showcase" /></a>
-
+</p>
 </td>
 </tr>
 </table>
@@ -154,18 +146,14 @@ The delivered client system connected the React frontend to a **Strapi / Postgre
 <table>
 <tr>
 <td width="43%" valign="top">
-
-### Client operations as a product
-
-A full-stack client-operations platform for agencies and AI service businesses: project delivery, onboarding, roadmaps, milestone payments, asset management, real-time communication and a grounded AI support agent.
-
-**Built around real operational workflows** rather than a static dashboard — client/admin roles, live project state, messaging, file delivery and server-generated AI context all live in one system.
-
-`React 19` · `Express` · `MongoDB` · `JWT` · `Socket.io` · `OpenAI` · `Resend` · `AWS S3`
-
+<h3>Client operations as a product</h3>
+<p>A full-stack client-operations platform for agencies and AI service businesses: project delivery, onboarding, roadmaps, milestone payments, asset management, real-time communication and a grounded AI support agent.</p>
+<p><strong>Built around real operational workflows</strong> rather than a static dashboard — client/admin roles, live project state, messaging, file delivery and server-generated AI context all live in one system.</p>
+<p><code>React 19</code> · <code>Express</code> · <code>MongoDB</code> · <code>JWT</code> · <code>Socket.io</code> · <code>OpenAI</code> · <code>Resend</code> · <code>AWS S3</code></p>
+<p>
 <a href="https://github.com/ProdigyProjectStudios/nexus-ai-assets"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" alt="NEXUS repository" /></a>
 <a href="https://nexus-ai.digitalprodigy.dev"><img src="https://img.shields.io/badge/LIVE_DEMO-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="NEXUS live demo" /></a>
-
+</p>
 </td>
 <td width="57%" valign="top">
 <a href="https://nexus-ai.digitalprodigy.dev"><img src="https://raw.githubusercontent.com/ProdigyProjectStudios/nexus-ai-assets/main/docs/screenshots/admin-command-center.png" width="100%" alt="NEXUS admin command center" /></a>
