@@ -40,6 +40,8 @@ I work across the complete product surface: from the data model and service boun
 
 # 🚀 Flagship Systems
 
+<p align="center"><sub><b>SELECTED WORK //</b> production AI, premium digital products and operational systems</sub></p>
+
 ## 🧠 AgentOps Command Center
 
 <table>
@@ -66,6 +68,18 @@ I work across the complete product surface: from the data model and service boun
 </td>
 <td width="58%" valign="top">
 <a href="https://agentops.digitalprodigy.dev"><img src="https://raw.githubusercontent.com/ProdigyProjectStudios/agentops-command-center/main/docs/screenshots/dashboard.png" width="100%" alt="AgentOps Command Center dashboard" /></a>
+<br/><br/>
+<p align="center"><sub><b>CONTROL PLANE // OPERATOR SURFACE</b></sub></p>
+<table>
+<tr>
+<td width="50%" valign="top"><sub><b>8 NODES</b><br/>typed orchestration</sub></td>
+<td width="50%" valign="top"><sub><b>HITL</b><br/>approval gates</sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><sub><b>RETRIEVAL</b><br/>grounded context</sub></td>
+<td width="50%" valign="top"><sub><b>EVIDENCE</b><br/>replayable audit trail</sub></td>
+</tr>
+</table>
 </td>
 </tr>
 </table>
@@ -83,6 +97,18 @@ I work across the complete product surface: from the data model and service boun
 <tr>
 <td width="58%" valign="top">
 <a href="https://aurixa.digitalprodigy.dev"><img src="https://raw.githubusercontent.com/ProdigyProjectStudios/aurixa-luxury-real-estate-intelligence/main/docs/screenshots/home-hero.png" width="100%" alt="Aurixa luxury real estate platform" /></a>
+<br/><br/>
+<p align="center"><sub><b>EXPERIENCE LAYER // LUXURY DISCOVERY</b></sub></p>
+<table>
+<tr>
+<td width="50%" valign="top"><sub><b>BUYER UX</b><br/>cinematic property discovery</sub></td>
+<td width="50%" valign="top"><sub><b>CONTENT OPS</b><br/>CMS-powered inventory</sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><sub><b>AI ENRICHMENT</b><br/>vision + copy workflows</sub></td>
+<td width="50%" valign="top"><sub><b>INQUIRIES</b><br/>captured and automated</sub></td>
+</tr>
+</table>
 </td>
 <td width="42%" valign="top">
 <h3>Client-facing product + operational backend</h3>
@@ -114,6 +140,7 @@ I work across the complete product surface: from the data model and service boun
 <tr>
 <td width="50%" valign="top">
 <h3>FlowCraft AI</h3>
+<sub><b>PROJECT 01 // WORKFLOW AUTOMATION</b></sub>
 <a href="https://ai-workflow-master.digitalprodigy.dev"><img src="https://raw.githubusercontent.com/ProdigyProjectStudios/flowcraft-ai/main/docs/screenshots/workflow-builder.png" width="100%" alt="FlowCraft AI workflow builder" /></a>
 <br/><br/>
 <b>Visual AI workflow automation platform.</b> Users compose multi-step DAGs on a React Flow canvas; the server topologically sorts and executes nodes against OpenAI, Anthropic and Gemini while persisting execution state.
@@ -126,6 +153,7 @@ I work across the complete product surface: from the data model and service boun
 </td>
 <td width="50%" valign="top">
 <h3>Flow Analytics</h3>
+<sub><b>PROJECT 02 // DECISION INTELLIGENCE</b></sub>
 <a href="https://flow-analytics.replit.app/"><img src="https://raw.githubusercontent.com/ProdigyProjectStudios/flow-analytics/main/docs/screenshots/dashboard.png" width="100%" alt="Flow Analytics dashboard" /></a>
 <br/><br/>
 <b>AI-powered agency analytics SaaS.</b> Consolidates client reporting, executive insights, ROI modelling, competitor analysis and white-label tooling behind a tier-aware product architecture.
@@ -143,6 +171,8 @@ I work across the complete product surface: from the data model and service boun
 
 ## 🛰️ NEXUS AI Assets
 
+<sub><b>CLIENT OPERATIONS // DELIVERY INFRASTRUCTURE</b></sub>
+
 <table>
 <tr>
 <td width="43%" valign="top">
@@ -157,6 +187,15 @@ I work across the complete product surface: from the data model and service boun
 </td>
 <td width="57%" valign="top">
 <a href="https://nexus-ai.digitalprodigy.dev"><img src="https://raw.githubusercontent.com/ProdigyProjectStudios/nexus-ai-assets/main/docs/screenshots/admin-command-center.png" width="100%" alt="NEXUS admin command center" /></a>
+<br/><br/>
+<p align="center"><sub><b>OPERATIONS LAYER // CLIENT DELIVERY</b></sub></p>
+<table>
+<tr>
+<td width="33%" valign="top"><sub><b>PROJECTS</b><br/>live delivery state</sub></td>
+<td width="33%" valign="top"><sub><b>PEOPLE</b><br/>client + admin roles</sub></td>
+<td width="34%" valign="top"><sub><b>CONTEXT</b><br/>grounded AI support</sub></td>
+</tr>
+</table>
 </td>
 </tr>
 </table>
@@ -164,6 +203,8 @@ I work across the complete product surface: from the data model and service boun
 ---
 
 # 🔬 Under the Hood
+
+<sub><b>THE SYSTEMS THINKING BEHIND THE INTERFACE</b></sub>
 
 <details>
 <summary><b>🧠 Agentic AI, RAG & tool workflows</b></summary>
@@ -192,6 +233,8 @@ REST APIs, webhooks, Cloudinary/S3 media, Stripe, Twilio, n8n, email, AI provide
 ---
 
 # 🛠️ Production Toolchain
+
+<sub><b>TOOLS SELECTED FOR SHIPPING RELIABLE, PRODUCTION-GRADE SYSTEMS</b></sub>
 
 ### AI & orchestration
 
