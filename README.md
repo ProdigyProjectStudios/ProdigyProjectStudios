@@ -121,6 +121,7 @@ I work across the complete product surface: from the data model and service boun
 <td width="50%" valign="top"><sub><b>OPERATIONS</b><br/>automated handoff</sub></td>
 </tr>
 </table>
+<p align="center"><sub><b>FROM DISCOVERY TO FOLLOW-UP</b><br/>One connected service surface for buyers, operators and the business behind the listing.</sub></p>
 </td>
 <td width="42%" valign="top">
 <h3>Client-facing product + operational backend</h3>
