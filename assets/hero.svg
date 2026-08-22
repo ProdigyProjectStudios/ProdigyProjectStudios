@@ -49,17 +49,17 @@
   <circle cx="1126" cy="131" r="4" fill="#D66EFD" filter="url(#softGlow)"/>
   <circle cx="1110" cy="237" r="4" fill="#D66EFD" filter="url(#softGlow)"/>
 
-  <!-- top rail -->
-  <rect x="55" y="39" width="1090" height="1" fill="url(#line)"/>
-  <circle cx="72" cy="40" r="3" fill="#57E6D9"/>
+  <!-- header: deliberately separated from the accent rail -->
+  <circle cx="72" cy="41" r="3" fill="#57E6D9"/>
   <text x="88" y="47" fill="#8EA1C4" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="2.5">PRODIGY PROJECT STUDIOS // ENGINEERING SYSTEMS THAT SHIP</text>
-  <text x="1114" y="47" text-anchor="end" fill="#7182A4" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="11">IRELAND</text>
+  <text x="1114" y="47" text-anchor="end" fill="#7182A4" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="11" letter-spacing="1.2">IRELAND</text>
+  <rect x="55" y="65" width="1090" height="1" fill="url(#line)"/>
 
   <!-- hero copy -->
-  <text x="600" y="146" text-anchor="middle" fill="#F7FAFF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="58" font-weight="800" letter-spacing="7">AARON ARCHER</text>
-  <rect x="299" y="171" width="602" height="2" rx="1" fill="url(#accent)"/>
-  <text x="600" y="210" text-anchor="middle" fill="#C6D1E8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="19" font-weight="600" letter-spacing="4">AI SYSTEMS · FULL-STACK PRODUCT ENGINEER</text>
-  <text x="600" y="244" text-anchor="middle" fill="#7F91B4" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="13" letter-spacing="1.8">ARCHITECTURE → INTEGRATIONS → DATA → EVALS → RELIABILITY → PRODUCT</text>
+  <text x="600" y="151" text-anchor="middle" fill="#F7FAFF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="58" font-weight="800" letter-spacing="7">AARON ARCHER</text>
+  <rect x="299" y="176" width="602" height="2" rx="1" fill="url(#accent)"/>
+  <text x="600" y="215" text-anchor="middle" fill="#C6D1E8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="19" font-weight="600" letter-spacing="4">AI SYSTEMS · FULL-STACK PRODUCT ENGINEER</text>
+  <text x="600" y="249" text-anchor="middle" fill="#7F91B4" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="13" letter-spacing="1.8">ARCHITECTURE → INTEGRATIONS → DATA → EVALS → RELIABILITY → PRODUCT</text>
 
   <!-- capability rail -->
   <g font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="11" font-weight="700" letter-spacing="1.2">
