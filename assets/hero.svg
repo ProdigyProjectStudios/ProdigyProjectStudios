@@ -1,0 +1,79 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#050816"/>
+      <stop offset="0.52" stop-color="#0A1024"/>
+      <stop offset="1" stop-color="#090713"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="236" y1="81" x2="969" y2="292" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#5CE1E6"/>
+      <stop offset="0.45" stop-color="#7C5CFC"/>
+      <stop offset="1" stop-color="#D66EFD"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#5CE1E6" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#5CE1E6" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#D66EFD" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glowA" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(184 104) rotate(27) scale(320 240)">
+      <stop stop-color="#3BD7FF" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#3BD7FF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1033 273) rotate(-150) scale(350 250)">
+      <stop stop-color="#A855F7" stop-opacity="0.2"/>
+      <stop offset="1" stop-color="#A855F7" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M34 0H0V34" stroke="#90A4C7" stroke-opacity="0.07" stroke-width="1"/>
+    </pattern>
+    <filter id="softGlow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect x="1" y="1" width="1198" height="358" rx="25" fill="url(#bg)" stroke="#2B3854" stroke-width="2"/>
+  <rect x="1" y="1" width="1198" height="358" rx="25" fill="url(#grid)"/>
+  <rect x="1" y="1" width="1198" height="358" rx="25" fill="url(#glowA)"/>
+  <rect x="1" y="1" width="1198" height="358" rx="25" fill="url(#glowB)"/>
+
+  <!-- circuit field -->
+  <path d="M0 82H97L132 117H218" stroke="url(#line)" stroke-width="1.5"/>
+  <path d="M0 281H86L123 244H208" stroke="url(#line)" stroke-width="1.5"/>
+  <path d="M992 87H1082L1126 131H1200" stroke="url(#line)" stroke-width="1.5"/>
+  <path d="M980 272H1075L1110 237H1200" stroke="url(#line)" stroke-width="1.5"/>
+  <path d="M130 0V53L163 86" stroke="#5CE1E6" stroke-opacity="0.2"/>
+  <path d="M1065 360V307L1032 274" stroke="#D66EFD" stroke-opacity="0.22"/>
+  <circle cx="132" cy="117" r="4" fill="#5CE1E6" filter="url(#softGlow)"/>
+  <circle cx="123" cy="244" r="4" fill="#5CE1E6" filter="url(#softGlow)"/>
+  <circle cx="1126" cy="131" r="4" fill="#D66EFD" filter="url(#softGlow)"/>
+  <circle cx="1110" cy="237" r="4" fill="#D66EFD" filter="url(#softGlow)"/>
+
+  <!-- top rail -->
+  <rect x="55" y="39" width="1090" height="1" fill="url(#line)"/>
+  <circle cx="72" cy="40" r="3" fill="#57E6D9"/>
+  <text x="88" y="47" fill="#8EA1C4" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="2.5">PRODIGY PROJECT STUDIOS // ENGINEERING SYSTEMS THAT SHIP</text>
+  <text x="1114" y="47" text-anchor="end" fill="#7182A4" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="11">IRELAND</text>
+
+  <!-- hero copy -->
+  <text x="600" y="146" text-anchor="middle" fill="#F7FAFF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="58" font-weight="800" letter-spacing="7">AARON ARCHER</text>
+  <rect x="299" y="171" width="602" height="2" rx="1" fill="url(#accent)"/>
+  <text x="600" y="210" text-anchor="middle" fill="#C6D1E8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="19" font-weight="600" letter-spacing="4">AI SYSTEMS · FULL-STACK PRODUCT ENGINEER</text>
+  <text x="600" y="244" text-anchor="middle" fill="#7F91B4" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="13" letter-spacing="1.8">ARCHITECTURE → INTEGRATIONS → DATA → EVALS → RELIABILITY → PRODUCT</text>
+
+  <!-- capability rail -->
+  <g font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="11" font-weight="700" letter-spacing="1.2">
+    <rect x="216" y="287" width="118" height="30" rx="15" fill="#0D172A" stroke="#2E5972"/>
+    <text x="275" y="306" text-anchor="middle" fill="#68DDF0">AGENTIC AI</text>
+    <rect x="348" y="287" width="93" height="30" rx="15" fill="#101529" stroke="#3B4A7C"/>
+    <text x="394.5" y="306" text-anchor="middle" fill="#95A8FF">RAG</text>
+    <rect x="455" y="287" width="102" height="30" rx="15" fill="#11142A" stroke="#4E4080"/>
+    <text x="506" y="306" text-anchor="middle" fill="#B39BFF">APIS</text>
+    <rect x="571" y="287" width="102" height="30" rx="15" fill="#15122A" stroke="#5E3D7F"/>
+    <text x="622" y="306" text-anchor="middle" fill="#D0A4FF">DATA</text>
+    <rect x="687" y="287" width="124" height="30" rx="15" fill="#181229" stroke="#703B78"/>
+    <text x="749" y="306" text-anchor="middle" fill="#E4A6F6">SAAS</text>
+    <rect x="825" y="287" width="159" height="30" rx="15" fill="#1A1128" stroke="#81386D"/>
+    <text x="904.5" y="306" text-anchor="middle" fill="#F0A5DB">OBSERVABILITY</text>
+  </g>
+</svg>
