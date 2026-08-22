@@ -245,6 +245,35 @@ REST APIs, webhooks, Cloudinary/S3 media, Stripe, Twilio, n8n, email, AI provide
 
 ---
 
+# ✦ Capabilities in Practice
+
+<p align="center"><sub><b>FOUR DELIVERY LANES //</b> from early system design to a reliable, operated product</sub></p>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<b>🧠 AI systems &amp; agent operations</b><br/><br/>
+<sub>Design grounded, evaluatable AI workflows with explicit state, tools, retrieval, approval paths and operator-facing evidence.</sub>
+</td>
+<td width="50%" valign="top">
+<b>🖥️ Full-stack product platforms</b><br/><br/>
+<sub>Own the customer experience and the system behind it: authenticated portals, dashboards, APIs, payments, CMS and workflow surfaces.</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<b>🔌 Data, APIs &amp; integrations</b><br/><br/>
+<sub>Connect data models, third-party services, automation and dependable server-side boundaries into one coherent product system.</sub>
+</td>
+<td width="50%" valign="top">
+<b>🛡️ Deployment &amp; reliability</b><br/><br/>
+<sub>Ship systems designed to be operated: observability, evaluations, audit trails, failure paths, deployment and ongoing iteration.</sub>
+</td>
+</tr>
+</table>
+
+---
+
 # 🛠️ Production Toolchain
 
 <sub><b>TOOLS SELECTED FOR SHIPPING RELIABLE, PRODUCTION-GRADE SYSTEMS</b></sub>
