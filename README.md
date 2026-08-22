@@ -79,6 +79,14 @@ I work across the complete product surface: from the data model and service boun
 <td width="50%" valign="top"><sub><b>RETRIEVAL</b><br/>grounded context</sub></td>
 <td width="50%" valign="top"><sub><b>EVIDENCE</b><br/>replayable audit trail</sub></td>
 </tr>
+<tr>
+<td width="50%" valign="top"><sub><b>EVALS</b><br/>golden scenarios</sub></td>
+<td width="50%" valign="top"><sub><b>TELEMETRY</b><br/>usage + cost signals</sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><sub><b>CONTRACTS</b><br/>Zod + OpenAPI</sub></td>
+<td width="50%" valign="top"><sub><b>TRACES</b><br/>persisted run history</sub></td>
+</tr>
 </table>
 </td>
 </tr>
@@ -107,6 +115,10 @@ I work across the complete product surface: from the data model and service boun
 <tr>
 <td width="50%" valign="top"><sub><b>AI ENRICHMENT</b><br/>vision + copy workflows</sub></td>
 <td width="50%" valign="top"><sub><b>INQUIRIES</b><br/>captured and automated</sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><sub><b>MEDIA</b><br/>Cloudinary delivery</sub></td>
+<td width="50%" valign="top"><sub><b>OPERATIONS</b><br/>automated handoff</sub></td>
 </tr>
 </table>
 </td>
